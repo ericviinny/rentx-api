@@ -18,7 +18,6 @@
 <p><b>Requerimentos</b></p>
 <ul>
   <li><a href="https://nodejs.org/en/">Node.JS</a></li>
-  <li><a href="https://expo.io/">Expo</a></li>
   <li><a href="https://yarnpkg.com/">Yarn</a> ou <a href="https://www.npmjs.com/">NPM</a></li>
 </ul>
 <p><b>Instalando e executando o projeto</b></p>
